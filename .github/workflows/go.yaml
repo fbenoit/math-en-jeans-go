@@ -21,6 +21,6 @@ jobs:
         go-version: 1.19
 
     - name: Build
-      run: go build -v .
+      run: go build math-en-jean.go
 
     
